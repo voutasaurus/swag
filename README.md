@@ -6,7 +6,7 @@ Sample swagger project
 
 ```
 git clone https://github.com/voutasaurus/swag
-cd swag
+cd swag/dist
 python -m SimpleHTTPServer 9000
 ```
 
