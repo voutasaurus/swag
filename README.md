@@ -1,0 +1,3 @@
+# swag
+
+Sample swagger project
